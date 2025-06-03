@@ -1,0 +1,74 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fdf6ec;
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  color: #d35400;
+}
+
+.search-container {
+  margin: 20px auto;
+}
+
+input {
+  padding: 10px;
+  width: 250px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+button {
+  padding: 10px 15px;
+  font-size: 16px;
+  background-color: #d35400;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+  margin-left: 10px;
+}
+
+button:hover {
+  background-color: #e67e22;
+}
+
+#results {
+  margin-top: 30px;
+}
+
+.recipe {
+  border: 1px solid #ccc;
+  padding: 20px;
+  max-width: 600px;
+  margin: 20px auto;
+  background-color: #fff;
+  border-radius: 8px;
+  text-align: left;
+}
+
+.recipe img {
+  width: 100%;
+  max-width: 400px;
+  border-radius: 8px;
+  display: block;
+  margin: 0 auto 15px;
+}
+
+.recipe h2 {
+  color: #d35400;
+  margin-top: 0;
+}
+
+.recipe a {
+  color: #d35400;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.recipe a:hover {
+  text-decoration: underline;
+}
