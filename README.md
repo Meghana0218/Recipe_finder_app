@@ -43,7 +43,7 @@ Built using **HTML**, **CSS**, and **JavaScript**, it connects with a recipe API
 
 ## 🌐 Live Demo
 
-👉 [Try the Recipe Finder App](https://Meghana0218.github.io/recipe-finder-app/)
+👉 [Try the Recipe Finder App](https://meghana0218.github.io/Recipe_finder_app/)
 
 ---
 
